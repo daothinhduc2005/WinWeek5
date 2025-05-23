@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|d:\\th-m\u1ECDng\\week-5\\winweek5\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|D:\\th-m\u1ECDng\\week-5\\WinWeek5\\windowsformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|d:\\th-m\u1ECDng\\week-5\\winweek5\\windowsformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|D:\\th-m\u1ECDng\\week-5\\WinWeek5\\windowsformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|D:\\th-m\u1ECDng\\week-5\\WinWeek5\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|d:\\th-m\u1ECDng\\week-5\\winweek5\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|D:\\th-m\u1ECDng\\week-5\\WinWeek5\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22D85511-9DEC-4CC8-A4FB-CF3532ACE43F}|WindowsFormsApp5\\WindowsFormsApp5.csproj|solutionrelative:windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +35,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
-              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs*",
-              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form2.cs",
+              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Form2.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T14:42:48.341Z",
+              "WhenOpened": "2025-05-20T15:36:08.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form2.cs",
+              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp5\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:33:40.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Program.cs",
+              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:33:08.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
+              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:42:48.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp5\\Form1.cs",
-              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs [Design]*",
+              "ToolTip": "D:\\th-m\u1ECDng\\week-5\\WinWeek5\\WindowsFormsApp5\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp5\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:20:39.416Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-20T01:20:39.416Z"
             }
           ]
         }
